@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-10-13 22:05:33.614499
+Hostname: Mac-mini-5803.local
+Operating system: Darwin
+OS version: Darwin Kernel Version 27.0.0: Tue Aug 11 21:02:16 PDT 2026; root:xnu-13432.1.9~1/RELEASE_ARM64_T8112
+Machine type: arm64
+Current user ID: 501
+Current working directory: /Users/benjamin/_M/TheoWAF/cpg/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
